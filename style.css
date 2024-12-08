@@ -120,6 +120,6 @@ header{
 
 .vidos{
     position: relative;
-    margin-top: 50px;
     margin-left: 200px;
+    width: 400px;
 }
