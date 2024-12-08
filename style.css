@@ -1,0 +1,125 @@
+@import url(ofont.ru_Ruthless\ Sketch.ttf);
+
+*{
+
+}
+
+header{
+    background-color: lightpink;
+    height: 100px;
+    display: flex;
+    align-items: center;
+}
+
+@font-face{
+    font-family: "ruthless";
+    src: url(ofont.ru_Ruthless\ Sketch.ttf);
+}
+
+.header-masha{
+    font-family: "ruthless";
+    color: lightcoral;
+    font-size: 60px;
+    position: relative;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.d-grid{
+    position: relative;
+    margin-top: ;
+    margin-left: 390px;
+}
+
+.container{
+    position: relative;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.itak{
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.vesitak{
+    position: relative;
+    margin-top: auto;
+    margin-left: 50px;
+}
+
+.itak2{
+    position: relative;
+    margin-top: 50px;
+    margin-left: 50px;
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.w-100{
+    max-width: 300px;
+}
+
+.row{
+    max-width: 700px;
+}
+
+.school{
+    position: relative;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.dva{
+    position: relative;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.tree{
+    position: relative;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.chetire{
+    position: relative;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.pyat{
+    position: relative;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.shest{
+    position: relative;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.sicret{
+    position: relative;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.vidos{
+    position: relative;
+    margin-top: 50px;
+    margin-left: 200px;
+}
